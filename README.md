@@ -1,1 +1,1 @@
-Markdown与latex的解释渲，为iOS而生
+Markdown与latex的解析渲染
